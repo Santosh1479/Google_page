@@ -1,2 +1,3 @@
-# Google_page
-Google home page made with react , non responsive
+this is webpage of Google look alike
+
+Not responsive,Mann nahi laga responsive banane ko
